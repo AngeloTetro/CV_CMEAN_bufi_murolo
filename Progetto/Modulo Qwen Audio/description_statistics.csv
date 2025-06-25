@@ -1,0 +1,10 @@
+Metric,Value
+Max Sentence Length (Words),265
+Min Sentence Length (Words),38
+Mean Sentence Length (Words),83.56
+Sentences > Mean Length,44
+Sentences < Mean Length,56
+Sentences = Mean Length,0
+Total Sentences,100
+Complete Sentences,0
+Incomplete Sentences,100
